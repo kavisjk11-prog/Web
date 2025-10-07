@@ -38,3 +38,8 @@ cd invoicing-roi-simulator
 ```bash
 pip install -r requirements.txt
 ```
+## 📸 App Preview
+
+Here’s what the ROI Simulator looks like in action 👇  
+
+![ROI Simulator Screenshot](Screenshot_7-10-2025_17123_localhost.jpeg)
